@@ -1,8 +1,8 @@
-#PHP
+# PHP
 
-##Subheading
+## Subheading
 
-paragraph
+This is a paragraph.
 
 ## Subheading
 
