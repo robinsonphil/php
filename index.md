@@ -6,6 +6,7 @@ paragraph
 
 ## Subheading
 
--list item
--list item
-list item
+- list item
+- list item
+- list item
+
